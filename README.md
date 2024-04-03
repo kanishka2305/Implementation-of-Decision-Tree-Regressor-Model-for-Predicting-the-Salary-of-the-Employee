@@ -15,11 +15,8 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 
 ## Program:
 ```py
-/*
-Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
 Developed by: Kanishka V S
 RegisterNumber: 212222230061
-*/
 ```
 ```py
 import pandas as pd
@@ -65,8 +62,6 @@ plt.show()
 ```
 ## Output:
 ![image](https://github.com/kanishka2305/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/113497357/3d43951f-b697-4240-9da9-a5c1d9ff87e1)
-
-![image](https://github.com/kanishka2305/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/113497357/b672a667-ad91-40d0-b286-cef0a1371925)
 
 ### MSE value:
 ![image](https://github.com/kanishka2305/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/113497357/2a58bbd9-09f3-4f36-9fb4-a5b1dad57c40)
